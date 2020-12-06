@@ -1,0 +1,27 @@
+     <style type="text/css">
+        
+body {
+  background-color: black;
+	color: white;
+}
+        h1 {
+           font-size:20px;
+           color:green;
+        }
+		p{
+			font-size:12px;
+		}
+		.class{
+			
+    width: 100px;
+    height: 100px;
+    border: dotted 2px;
+    
+         }
+			ol {
+  list-style-type:upper-alpha;
+}
+ ul {list-style-type: square;}
+        
+
+</style>
